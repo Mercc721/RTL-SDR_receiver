@@ -14,7 +14,7 @@ L'interface ressemble à une vraie radio : écran LCD vert, boutons ronds, pavé
 
 ## Ce qu'il vous faut
 
-Une clé RTL-SDR (RTL2832U) et une antenne 
+Une clé RTL-SDR (NESDR SMART V5)et une antenne 
 Ensuite :
 **Logiciel**
 - la commande rtl_tcp dans un terminal afin de chercher la clé RTL-SDR 
