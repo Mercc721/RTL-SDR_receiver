@@ -19,7 +19,7 @@ Ensuite :
 **Logiciel**
 - la commande rtl_tcp dans un terminal afin de chercher la clé RTL-SDR 
 - Python 3 dans un autre terminal 
-
+- Python 3.13.13
 ```bash
 pip install pyrtlsdr numpy scipy sounddevice
 ```
