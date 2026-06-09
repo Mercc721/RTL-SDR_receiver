@@ -29,7 +29,7 @@ Sur Mac, les drivers USB en plus :
 ```bash
 brew install librtlsdr
 ```
-
+- installation du logiciel zadig et télécharger le driver approprié 
 ---
 
 ## Lancer
