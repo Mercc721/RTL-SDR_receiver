@@ -24,7 +24,7 @@ Ensuite :
 pip install pyrtlsdr numpy scipy sounddevice
 ```
 
-Sur Mac, les drivers USB en plus :
+les drivers USB en plus :
 
 ```bash
 brew install librtlsdr
